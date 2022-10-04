@@ -1,0 +1,12 @@
+[2022-10-01 13:55:34.074] [exthost] [info] Extension host with pid 6037 started
+[2022-10-01 13:55:34.500] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-01 13:55:34.720] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-01 13:55:34.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-01 13:55:34.766] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-01 13:55:35.020] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-01 13:55:35.091] [exthost] [info] Eager extensions activated
+[2022-10-01 13:55:35.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-01 13:55:35.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-01 13:55:35.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-01 13:55:43.098] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-01 13:55:43.100] [exthost] [info] Extension host with pid 6037 exiting with code 0

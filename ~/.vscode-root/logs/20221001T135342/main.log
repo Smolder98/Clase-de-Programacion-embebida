@@ -1,0 +1,4 @@
+[2022-10-01 13:53:42.814] [main] [info] update#setState idle
+[2022-10-01 13:53:44.948] [main] [info] Starting extension host with pid 5819 (fork() took 15 ms).
+[2022-10-01 13:53:55.748] [main] [info] Extension host with pid 5819 exited with code: 0, signal: null.
+[2022-10-01 13:53:55.761] [main] [info] Waiting for extension host with pid 5819 to exit.
